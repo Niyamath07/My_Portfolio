@@ -2,7 +2,7 @@
 
 Built with HTML, CSS and Js
 
-- Link: [Mohammed Niyiamathullah Portfolio](https://williamssam.netlify.app/)
+- Link: [Mohammed Niyiamathullah Portfolio](https://niyamath07.github.io/portfolio/)
 - LinkedIn: [@mohammedniyamath](https://www.linkedin.com/in/mohammedniyamath/)
 
 ![portfolio site screenshot](./Screenshot.png)
